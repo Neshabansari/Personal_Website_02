@@ -1,0 +1,53 @@
+{
+    "projects":[
+        {
+            "title": "Git Analyzer",
+            "imageUrl": "https://github.com/Neshabansari/git-analyzer/blob/main/output/HomePage.png?raw=true",
+            "project_url": "https://github.com/Neshabansari/git-analyzer",
+            "description": "A powerful AI-driven Git repository analysis tool that provides insights into code evolution, commit patterns, and development trends.",
+            "tags": [  "java", "springboot", "react", "pgvector" ]
+        },
+        {
+            "title": "Coursia-LMS",
+            "imageUrl": "",
+            "project_url": "https://github.com/Neshabansari/coursia-lms",
+            "description": "Full-stack Learning Management System (MERN) for course creation, enrollment, and online learning.",
+            "tags": [ "react", "nodejs", "mongodb" ]
+        },
+        {
+            "title": "FuzzyNet-MedSeg",
+            "imageUrl": "https://github.com/Neshabansari/FuzzyNet-MedSeg/blob/main/Figure/Chest_Explainability.png?raw=true",
+            "project_url": "https://github.com/Neshabansari/FuzzyNet-MedSeg",
+            "description": "An explainable hybrid network for accurate and interpretable medical image segmentation, enabling more reliable and transparent clinical decision-making.",
+            "tags": [ "python" ]
+        },
+        {
+            "title": "SmartCrop",
+            "imageUrl": "https://github.com/Neshabansari/Crop_Recommendation_System/blob/master/Screenshot%202025-04-11%20144021.png?raw=true",
+            "project_url": "https://github.com/Neshabansari/Crop_Recommendation_System",
+            "description": "End-to-end machine learning project that recommends optimal crops based on soil nutrients (N, P, K) and environmental factors such as temperature, humidity, pH, and rainfall.",
+            "tags": [ "python", "machine-learning", "flask"  ]
+        },
+        {
+            "title": "HireNexus",
+            "imageUrl": "https://github.com/Neshabansari/hirenexus-intelligent-hiring-agent/blob/main/screenshots/home.png?raw=true",
+            "project_url": "https://github.com/Neshabansari/hirenexus-intelligent-hiring-agent",
+            "description": "AI-powered resume analysis & interview preparation system",
+            "tags": [ "ai", "python", "streamlit"  ]
+        },
+        {
+            "title": "SnapClean",
+            "imageUrl": "",
+            "project_url": "https://github.com/Neshabansari/ai-background-remover",
+            "description": "An AI-powered background removal platform enabling secure image uploads, real-time processing, and seamless downloads.",
+            "tags": [  "react", "nodejs", "mongodb"   ]
+        },
+        {
+            "title": "Your Project Seven",
+            "imageUrl": "",
+            "project_url": "",
+            "description": "Keep or remove this based on how many projects you want to show.",
+            "tags": [ "portfolio", "product", "branding"  ]
+        }
+    ]
+}
