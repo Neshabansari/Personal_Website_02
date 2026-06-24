@@ -13,3 +13,7 @@
 # tasks readme
 
 tasks.md
+
+.env.local
+.env
+.env.*
